@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f51a807486536d4ab8507c2f744bd53, type: 3}
+  m_Name: DefaultColliderSet
+  m_EditorClassIdentifier: 
+  ColliderAndColliderTypes:
+  - Tile: {fileID: 11400000, guid: 2642a329068c9a545a9ce101491e7f89, type: 2}
+    TileType: 1
+  - Tile: {fileID: 11400000, guid: b9bc8f88fc9d98d40b04a71305e48bcc, type: 2}
+    TileType: 25
+  - Tile: {fileID: 11400000, guid: 0d3d9aa3020eb2040b145dc77a033ae4, type: 2}
+    TileType: 26
+  - Tile: {fileID: 11400000, guid: d772d210980a2554e9974436d514df3a, type: 2}
+    TileType: 27
+  - Tile: {fileID: 11400000, guid: 3b604c60158cd7e47aaa069ac54fc1bf, type: 2}
+    TileType: 43
+  - Tile: {fileID: 11400000, guid: 8286a6e2be3b25e4d904938a56583634, type: 2}
+    TileType: 53
+  - Tile: {fileID: 11400000, guid: 19fb92a0fa80af94d9eb35cf43761b10, type: 2}
+    TileType: 54
+  - Tile: {fileID: 11400000, guid: b329cfe317305824fb92bebc03894f9c, type: 2}
+    TileType: 28
+  - Tile: {fileID: 11400000, guid: fa197886ac11942419a488e12acb1f24, type: 2}
+    TileType: 29
+  - Tile: {fileID: 11400000, guid: 30a8b8dc19f08634ab1c24fa0eb9b8f7, type: 2}
+    TileType: 32
+  - Tile: {fileID: 11400000, guid: 1543663869017cb448e9a7bf88918b70, type: 2}
+    TileType: 33
+  - Tile: {fileID: 11400000, guid: 9a331bd2013ed7046ad0cb49c6b70f66, type: 2}
+    TileType: 34
+  - Tile: {fileID: 11400000, guid: 1df4d5dafa33eb04e9d06472904b41ac, type: 2}
+    TileType: 2
+  - Tile: {fileID: 11400000, guid: f80cc2197e68ff44b80d49f0acf802df, type: 2}
+    TileType: 4
+  - Tile: {fileID: 11400000, guid: 6d178b3f8ee0c7349b85816c3d639476, type: 2}
+    TileType: 3
+  - Tile: {fileID: 11400000, guid: 752341822b6ab884ea82cc842d67f13b, type: 2}
+    TileType: 30
+  - Tile: {fileID: 11400000, guid: 9c35a05a3877ce04eacd66f720ccb1b3, type: 2}
+    TileType: 31
+  - Tile: {fileID: 11400000, guid: 4e17c7463388bf441afaeebca01893a2, type: 2}
+    TileType: 35
+  - Tile: {fileID: 11400000, guid: adf861f547b595c418981b4a0a0333c5, type: 2}
+    TileType: 36
+  - Tile: {fileID: 11400000, guid: aec96f4a434f9914dbb8f64c19c22419, type: 2}
+    TileType: 52
+  - Tile: {fileID: 11400000, guid: f6cb75a7e5c50af4887a6d2ad7a10125, type: 2}
+    TileType: 50
+  - Tile: {fileID: 11400000, guid: 9ce094ea7a0b5a74380351e0eb9f0ac2, type: 2}
+    TileType: 51
+  - Tile: {fileID: 11400000, guid: 554a2fcabebebd445819a516664b374e, type: 2}
+    TileType: 49
+  - Tile: {fileID: 11400000, guid: 3e80fb0ec2ce6944f96cc69cb31bc613, type: 2}
+    TileType: 44
+  - Tile: {fileID: 11400000, guid: cd22f0632bfcb744eb5dc9e565226da9, type: 2}
+    TileType: 45
+  - Tile: {fileID: 11400000, guid: 76a4342aa86d74c43be0741e81e7eb1e, type: 2}
+    TileType: 46
+  - Tile: {fileID: 11400000, guid: 3f6a9e27a63986a45a872faf133e4580, type: 2}
+    TileType: 47
+  - Tile: {fileID: 11400000, guid: 083736f292ee56d40b8c82ae4c53899a, type: 2}
+    TileType: 48
+  - Tile: {fileID: 11400000, guid: be01c0d04a5e4ca48ad1a79c541247cc, type: 2}
+    TileType: 5
+  - Tile: {fileID: 11400000, guid: 1e47db91fefd38b47b366d9de926d39d, type: 2}
+    TileType: 10
+  - Tile: {fileID: 11400000, guid: 1e535fddd8d821a42bd56945632e7aa2, type: 2}
+    TileType: 6
+  - Tile: {fileID: 11400000, guid: c3435222f45125a4c87b28486298ba6f, type: 2}
+    TileType: 7
+  - Tile: {fileID: 11400000, guid: e0241e14b8b72864f8fd8363914cd9bf, type: 2}
+    TileType: 8
+  - Tile: {fileID: 11400000, guid: 500892a2c13c57849b8a811dcf889d09, type: 2}
+    TileType: 9
+  - Tile: {fileID: 11400000, guid: ad12d53f7cc62af4e87f3d9eb41a80a4, type: 2}
+    TileType: 11
+  - Tile: {fileID: 11400000, guid: 12090be3c0ca5844584989dc1a28114a, type: 2}
+    TileType: 12
+  - Tile: {fileID: 11400000, guid: 2c7af95c79ebcd447ba7d1ebf61d7e8d, type: 2}
+    TileType: 13
+  - Tile: {fileID: 11400000, guid: 8aa81cb1d43320541891acd0d3d9b24d, type: 2}
+    TileType: 14
+  - Tile: {fileID: 11400000, guid: 062da20730ce7234cb582ff4049b366a, type: 2}
+    TileType: 41
+  - Tile: {fileID: 11400000, guid: 24416b63c870f2242be2424a297b9eaa, type: 2}
+    TileType: 40
+  - Tile: {fileID: 11400000, guid: 9c769f49d18a92e44adc417d89ff8ffe, type: 2}
+    TileType: 39
+  - Tile: {fileID: 11400000, guid: 7acb0c02c9564044b8c93765a4787a81, type: 2}
+    TileType: 55
+  - Tile: {fileID: 11400000, guid: dcc1a2f7f5dcfa1478c131cb55c32cda, type: 2}
+    TileType: 37
+  - Tile: {fileID: 11400000, guid: 89c41a3cf560c2b4c873b53adafe91ca, type: 2}
+    TileType: 56
+  - Tile: {fileID: 11400000, guid: df8b93158de94224aaa1fc739a7d6c66, type: 2}
+    TileType: 42
+  - Tile: {fileID: 11400000, guid: 624a802ae016f724a86078b6f1516a14, type: 2}
+    TileType: 38
+  - Tile: {fileID: 11400000, guid: cce79668470ef8e4c832f13569a4fd89, type: 2}
+    TileType: 15
+  - Tile: {fileID: 11400000, guid: 557eccbac7b20404ab859afdcffd4452, type: 2}
+    TileType: 16
+  - Tile: {fileID: 11400000, guid: bee19025c6f953c4fa6974e51e045040, type: 2}
+    TileType: 17
+  - Tile: {fileID: 11400000, guid: eb625c141b3929f43b8b84fbf7aac23a, type: 2}
+    TileType: 19
+  - Tile: {fileID: 11400000, guid: 068234e002a6df6449ae464b95bb5dfa, type: 2}
+    TileType: 18
+  - Tile: {fileID: 11400000, guid: 19b44794fd9301741b64c23710db50bb, type: 2}
+    TileType: 22
+  - Tile: {fileID: 11400000, guid: 7b233ed9dbf433340ad73739399f6951, type: 2}
+    TileType: 20
+  - Tile: {fileID: 11400000, guid: 0f650895f114aef488ac131a8250d745, type: 2}
+    TileType: 21
+  - Tile: {fileID: 11400000, guid: 175adaabeeea9364aac8ff7dd4b19776, type: 2}
+    TileType: 23
+  - Tile: {fileID: 11400000, guid: fb7a513efcdd0d84db203a04f2cde6de, type: 2}
+    TileType: 24
+  - Tile: {fileID: 11400000, guid: d824922cc4555804680e68bd33a1bfbf, type: 2}
+    TileType: 57
+  - Tile: {fileID: 11400000, guid: 712e4e28f14c9fb4fb445cf858c847fd, type: 2}
+    TileType: 58

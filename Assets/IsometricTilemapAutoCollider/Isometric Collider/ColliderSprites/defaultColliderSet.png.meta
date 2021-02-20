@@ -1,0 +1,1868 @@
+fileFormatVersion: 2
+guid: d70c44bb0b424c94f8da5c546af4a982
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 800955178981991924
+    second: defaultColliderSet_0
+  - first:
+      213: 8093951969025669217
+    second: defaultColliderSet_1
+  - first:
+      213: -4888957118580763809
+    second: defaultColliderSet_2
+  - first:
+      213: 624281069345691261
+    second: defaultColliderSet_3
+  - first:
+      213: 239213701484853936
+    second: defaultColliderSet_4
+  - first:
+      213: 5477502888347913348
+    second: defaultColliderSet_5
+  - first:
+      213: 6203306174874841037
+    second: defaultColliderSet_6
+  - first:
+      213: 8724056157897797404
+    second: defaultColliderSet_7
+  - first:
+      213: -6423052964323654567
+    second: defaultColliderSet_8
+  - first:
+      213: -7045677697682615514
+    second: defaultColliderSet_9
+  - first:
+      213: 9174125268227603518
+    second: defaultColliderSet_10
+  - first:
+      213: 4016535924143656002
+    second: defaultColliderSet_11
+  - first:
+      213: -4917143071815597153
+    second: defaultColliderSet_12
+  - first:
+      213: -6379478551107798242
+    second: defaultColliderSet_13
+  - first:
+      213: 6464695248715925075
+    second: defaultColliderSet_14
+  - first:
+      213: -8740310692397395804
+    second: defaultColliderSet_15
+  - first:
+      213: -5965724053846947798
+    second: defaultColliderSet_0
+  - first:
+      213: -4806326692703453967
+    second: defaultColliderSet_1
+  - first:
+      213: 2866141420725972302
+    second: defaultColliderSet_2
+  - first:
+      213: -8628818464642514137
+    second: defaultColliderSet_3
+  - first:
+      213: 5829583333846779640
+    second: defaultColliderSet_4
+  - first:
+      213: 611132638901178744
+    second: defaultColliderSet_5
+  - first:
+      213: 7459511561954175667
+    second: defaultColliderSet_6
+  - first:
+      213: -6477725243166407656
+    second: defaultColliderSet_7
+  - first:
+      213: 4534601484318226998
+    second: defaultColliderSet_8
+  - first:
+      213: -2221038585680389333
+    second: defaultColliderSet_9
+  - first:
+      213: 5896823897233730163
+    second: defaultColliderSet_10
+  - first:
+      213: 4430397122265389148
+    second: defaultColliderSet_16
+  - first:
+      213: -7414909844980573477
+    second: defaultColliderSet_11
+  - first:
+      213: -5057483474157397747
+    second: defaultColliderSet_12
+  - first:
+      213: -8086934342381851326
+    second: defaultColliderSet_13
+  - first:
+      213: 6807098314405887627
+    second: defaultColliderSet_14
+  - first:
+      213: -4918339313703637790
+    second: defaultColliderSet_17
+  - first:
+      213: 8295440090708563296
+    second: defaultColliderSet_18
+  - first:
+      213: -553558077654105793
+    second: defaultColliderSet_15
+  - first:
+      213: 6467745349425653464
+    second: defaultColliderSet_16
+  - first:
+      213: 5398338109948561601
+    second: defaultColliderSet_17
+  - first:
+      213: -4686085579284649224
+    second: defaultColliderSet_19
+  - first:
+      213: -6446878428446413878
+    second: defaultColliderSet_20
+  - first:
+      213: 8687612354222659937
+    second: defaultColliderSet_21
+  - first:
+      213: -2017649288032123940
+    second: defaultColliderSet_22
+  - first:
+      213: -3064780786429040225
+    second: defaultColliderSet_23
+  - first:
+      213: 3546449878560060389
+    second: defaultColliderSet_24
+  - first:
+      213: -8818796943801171476
+    second: defaultColliderSet_25
+  - first:
+      213: -6205013309988951939
+    second: defaultColliderSet_26
+  - first:
+      213: 1320749485636506370
+    second: defaultColliderSet_27
+  - first:
+      213: 7910421852769662590
+    second: defaultColliderSet_28
+  - first:
+      213: 5310711857612175616
+    second: defaultColliderSet_29
+  - first:
+      213: -8897969071627405711
+    second: defaultColliderSet_30
+  - first:
+      213: -3833004114820099773
+    second: defaultColliderSet_18
+  - first:
+      213: -4906090729260043033
+    second: defaultColliderSet_19
+  - first:
+      213: -154539772513293046
+    second: defaultColliderSet_20
+  - first:
+      213: 8131441982749442598
+    second: defaultColliderSet_21
+  - first:
+      213: -3550360961007538511
+    second: defaultColliderSet_22
+  - first:
+      213: 7078275611132048030
+    second: defaultColliderSet_23
+  - first:
+      213: -1400812499987642052
+    second: defaultColliderSet_24
+  - first:
+      213: -1662523906239989383
+    second: defaultColliderSet_25
+  - first:
+      213: 5654446007149001905
+    second: defaultColliderSet_26
+  - first:
+      213: -1087464369480460598
+    second: defaultColliderSet_27
+  - first:
+      213: 2183882809874055289
+    second: defaultColliderSet_28
+  - first:
+      213: -2477907741429053035
+    second: defaultColliderSet_31
+  - first:
+      213: 7254164645907049555
+    second: defaultColliderSet_32
+  - first:
+      213: 1513867789229817751
+    second: defaultColliderSet_33
+  - first:
+      213: -8414096536467485184
+    second: defaultColliderSet_34
+  - first:
+      213: 7672376354822966871
+    second: defaultColliderSet_35
+  - first:
+      213: 4230548878895981705
+    second: defaultColliderSet_36
+  - first:
+      213: 8800449631074902494
+    second: defaultColliderSet_37
+  - first:
+      213: -568811784914029342
+    second: defaultColliderSet_38
+  - first:
+      213: -9011002420543309533
+    second: defaultColliderSet_39
+  - first:
+      213: 168731361830663063
+    second: defaultColliderSet_40
+  - first:
+      213: -956163164284224043
+    second: defaultColliderSet_41
+  - first:
+      213: 6771228019366332127
+    second: defaultColliderSet_42
+  - first:
+      213: -5545863816378593141
+    second: defaultColliderSet_43
+  - first:
+      213: 6054713830647535488
+    second: defaultColliderSet_44
+  - first:
+      213: -5248861490666808937
+    second: defaultColliderSet_45
+  - first:
+      213: 2928665019918823325
+    second: defaultColliderSet_46
+  - first:
+      213: -5255098024953259209
+    second: defaultColliderSet_29
+  - first:
+      213: 4983562948851988524
+    second: defaultColliderSet_30
+  - first:
+      213: 2855798839585134044
+    second: defaultColliderSet_31
+  - first:
+      213: -3041552382801545328
+    second: defaultColliderSet_32
+  - first:
+      213: -3674027398776546727
+    second: defaultColliderSet_33
+  - first:
+      213: 5848272661699710732
+    second: defaultColliderSet_34
+  - first:
+      213: 1992731859437278118
+    second: defaultColliderSet_35
+  - first:
+      213: -5238878703980328605
+    second: defaultColliderSet_36
+  - first:
+      213: -7096506655290290494
+    second: defaultColliderSet_37
+  - first:
+      213: 7412395093934735545
+    second: defaultColliderSet_38
+  - first:
+      213: -5164431847708845151
+    second: defaultColliderSet_39
+  - first:
+      213: 8786384335013855247
+    second: defaultColliderSet_40
+  - first:
+      213: 144650096652607003
+    second: defaultColliderSet_41
+  - first:
+      213: -8382144617148752032
+    second: defaultColliderSet_42
+  - first:
+      213: 1228856396061373758
+    second: defaultColliderSet_43
+  - first:
+      213: -3714159226788737816
+    second: defaultColliderSet_44
+  - first:
+      213: -7978465736590994042
+    second: defaultColliderSet_45
+  - first:
+      213: -3112078802699067295
+    second: defaultColliderSet_46
+  - first:
+      213: -2889127849451463448
+    second: defaultColliderSet_48
+  - first:
+      213: -7782533292381828703
+    second: defaultColliderSet_49
+  - first:
+      213: -5317755262171298138
+    second: defaultColliderSet_50
+  - first:
+      213: 2807096535177462869
+    second: defaultColliderSet_50
+  - first:
+      213: -7853357419125462421
+    second: defaultColliderSet_52
+  - first:
+      213: -8164885277600479237
+    second: defaultColliderSet_47
+  - first:
+      213: -6385072221540290941
+    second: defaultColliderSet_49
+  - first:
+      213: -6594880324387532928
+    second: defaultColliderSet_50
+  - first:
+      213: -5421980945171274103
+    second: defaultColliderSet_50
+  - first:
+      213: 508165466046062586
+    second: defaultColliderSet_52
+  - first:
+      213: -8854564250897504467
+    second: defaultColliderSet_53
+  - first:
+      213: 3871945451275188796
+    second: defaultColliderSet_54
+  - first:
+      213: -4138363552545248077
+    second: defaultColliderSet_55
+  - first:
+      213: 4293987090717920731
+    second: defaultColliderSet_61
+  - first:
+      213: -4919115149502046855
+    second: defaultColliderSet_62
+  - first:
+      213: -2242596614270488742
+    second: defaultColliderSet_63
+  - first:
+      213: -23059949809588545
+    second: defaultColliderSet_64
+  - first:
+      213: 8917193522174822674
+    second: defaultColliderSet_65
+  - first:
+      213: -2571401005975135712
+    second: defaultColliderSet_66
+  - first:
+      213: -5001142779938317306
+    second: defaultColliderSet_67
+  - first:
+      213: 6840932965327623529
+    second: defaultColliderSet_68
+  - first:
+      213: -7887717760481813780
+    second: defaultColliderSet_46
+  - first:
+      213: -1497463970485443275
+    second: defaultColliderSet_46
+  - first:
+      213: -7752819168908029240
+    second: defaultColliderSet_48
+  - first:
+      213: 4364320010561785534
+    second: defaultColliderSet_49
+  - first:
+      213: 494253991583095714
+    second: defaultColliderSet_50
+  - first:
+      213: -4534293069764371467
+    second: defaultColliderSet_50
+  - first:
+      213: 2061332737644349672
+    second: defaultColliderSet_52
+  - first:
+      213: 3613667325176439327
+    second: defaultColliderSet_47
+  - first:
+      213: -5369170463727415876
+    second: defaultColliderSet_49
+  - first:
+      213: 391781524917439522
+    second: defaultColliderSet_50
+  - first:
+      213: 4898309022014821806
+    second: defaultColliderSet_50
+  - first:
+      213: -173749980597139473
+    second: defaultColliderSet_52
+  - first:
+      213: -4768577222371633320
+    second: defaultColliderSet_53
+  - first:
+      213: -2496257074021512930
+    second: defaultColliderSet_54
+  - first:
+      213: -5495617528306134369
+    second: defaultColliderSet_55
+  - first:
+      213: -3871828617846521029
+    second: defaultColliderSet_61
+  - first:
+      213: 3752222374669867827
+    second: defaultColliderSet_62
+  - first:
+      213: -8154906773534571074
+    second: defaultColliderSet_63
+  - first:
+      213: 3202251857593268911
+    second: defaultColliderSet_64
+  - first:
+      213: -8660087986886389590
+    second: defaultColliderSet_65
+  - first:
+      213: 754535887283508014
+    second: defaultColliderSet_66
+  - first:
+      213: 3194599518970467538
+    second: defaultColliderSet_67
+  - first:
+      213: 362789119762537702
+    second: defaultColliderSet_68
+  - first:
+      213: -8772373209651612378
+    second: defaultColliderSet_69
+  - first:
+      213: -5754047089448564295
+    second: defaultColliderSet_70
+  - first:
+      213: -7563990115374766366
+    second: defaultColliderSet_71
+  - first:
+      213: 5607392343953777347
+    second: defaultColliderSet_72
+  - first:
+      213: -6662823011878153569
+    second: defaultColliderSet_73
+  - first:
+      213: 5131452289712282455
+    second: defaultColliderSet_74
+  - first:
+      213: -7263353791911925901
+    second: defaultColliderSet_75
+  - first:
+      213: -6336927615285485995
+    second: defaultColliderSet_76
+  - first:
+      213: -7894793227820830893
+    second: defaultColliderSet_77
+  - first:
+      213: -3069743266822013361
+    second: defaultColliderSet_78
+  - first:
+      213: 2441647642069243969
+    second: defaultColliderSet_79
+  - first:
+      213: 2387388389575613955
+    second: defaultColliderSet_80
+  - first:
+      213: -7763055137754269053
+    second: defaultColliderSet_81
+  - first:
+      213: -3418224428333092605
+    second: defaultColliderSet_82
+  - first:
+      213: 751579696719903805
+    second: defaultColliderSet_83
+  - first:
+      213: 4926750348104422208
+    second: defaultColliderSet_84
+  - first:
+      213: -3091429115274567803
+    second: defaultColliderSet_85
+  - first:
+      213: 7432878406466877681
+    second: defaultColliderSet_86
+  - first:
+      213: 7130707022754744124
+    second: defaultColliderSet_87
+  - first:
+      213: -8363769785835421328
+    second: defaultColliderSet_88
+  - first:
+      213: 3738931791355992497
+    second: defaultColliderSet_89
+  - first:
+      213: -2506549785414270552
+    second: defaultColliderSet_90
+  - first:
+      213: 461465327987630343
+    second: defaultColliderSet_91
+  - first:
+      213: -5141922202309074030
+    second: defaultColliderSet_92
+  - first:
+      213: -6701077209456612747
+    second: defaultColliderSet_93
+  - first:
+      213: 650590995812069313
+    second: defaultColliderSet_94
+  - first:
+      213: -1362094327615208063
+    second: defaultColliderSet_95
+  - first:
+      213: -3113685581567104505
+    second: defaultColliderSet_96
+  - first:
+      213: -4813655993708752168
+    second: defaultColliderSet_97
+  - first:
+      213: 7787109225457553532
+    second: defaultColliderSet_98
+  - first:
+      213: -65297857161096403
+    second: defaultColliderSet_99
+  - first:
+      213: 6529886884073639160
+    second: defaultColliderSet_100
+  - first:
+      213: -7138373742495266626
+    second: defaultColliderSet_101
+  - first:
+      213: -6794272557280427434
+    second: defaultColliderSet_102
+  - first:
+      213: 7238057715979486961
+    second: defaultColliderSet_103
+  - first:
+      213: 4934603634423777964
+    second: defaultColliderSet_104
+  - first:
+      213: -1885306064784354426
+    second: defaultColliderSet_105
+  - first:
+      213: 3576854794062434336
+    second: defaultColliderSet_106
+  - first:
+      213: 7325923059171850857
+    second: defaultColliderSet_107
+  - first:
+      213: 1388391883609041413
+    second: defaultColliderSet_108
+  - first:
+      213: -274129791733919724
+    second: defaultColliderSet_109
+  - first:
+      213: -5421980945171274103
+    second: defaultColliderSet_56
+  - first:
+      213: 508165466046062586
+    second: defaultColliderSet_57
+  - first:
+      213: -8854564250897504467
+    second: defaultColliderSet_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: defaultColliderSet_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 406
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3101ea7cdd5158f0800000000000000
+      internalID: -553558077654105793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 406
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66332b02c02c950800000000000000
+      internalID: 6467745349425653464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 406
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c800fcc8efbaea40800000000000000
+      internalID: 5398338109948561601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 406
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3419981d01f6ecac0800000000000000
+      internalID: -3833004114820099773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 406
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e43e9ea9701aebb0800000000000000
+      internalID: -4906090729260043033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 406
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0decab45e6faddf0800000000000000
+      internalID: -154539772513293046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_21
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 406
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6228a7da66fa8d070800000000000000
+      internalID: 8131441982749442598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 406
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be2bbe34859abec0800000000000000
+      internalID: -3550360961007538511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9236df7a261b3260800000000000000
+      internalID: 7078275611132048030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c394f4df3705f8ce0800000000000000
+      internalID: -1400812499987642052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97978f1d0578de8e0800000000000000
+      internalID: -1662523906239989383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcfdb95fa0a87e40800000000000000
+      internalID: 5654446007149001905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_27
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac61937eaec88e0f0800000000000000
+      internalID: -1087464369480460598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_28
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97000a948d5be4e10800000000000000
+      internalID: 2183882809874055289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bddc260342217b0800000000000000
+      internalID: -5255098024953259209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28fe12191c292540800000000000000
+      internalID: 4983562948851988524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5d177f9e5d1a720800000000000000
+      internalID: 2855798839585134044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097fe51093c3ac5d0800000000000000
+      internalID: -3041552382801545328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a1fd0fb8b330dc0800000000000000
+      internalID: -3674027398776546727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f4d36100d392150800000000000000
+      internalID: 5848272661699710732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3dc56711b97ab10800000000000000
+      internalID: 1992731859437278118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_36
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369c4e35393cb47b0800000000000000
+      internalID: -5238878703980328605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce0a31cbc4248d90800000000000000
+      internalID: -7096506655290290494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_38
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b004dcb01e1ed660800000000000000
+      internalID: 7412395093934735545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab999ac8904458b0800000000000000
+      internalID: -5164431847708845151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ce8c10028fe970800000000000000
+      internalID: 8786384335013855247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_41
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e54bb1f76e10200800000000000000
+      internalID: 144650096652607003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_42
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f55e691e3acab80800000000000000
+      internalID: -8382144617148752032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_43
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357437a166cd0110800000000000000
+      internalID: 1228856396061373758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec84089cd7a47cc0800000000000000
+      internalID: -3714159226788737816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_45
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6855edd2fabc64190800000000000000
+      internalID: -7978465736590994042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28037ea49d753da0800000000000000
+      internalID: -5965724053846947798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcbee6865f7c4db0800000000000000
+      internalID: -4806326692703453967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4da76acf6496c720800000000000000
+      internalID: 2866141420725972302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c6a7e257404880800000000000000
+      internalID: -8628818464642514137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6897ad727d6e050800000000000000
+      internalID: 5829583333846779640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8711a5ca5ed2b7800800000000000000
+      internalID: 611132638901178744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 563
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa2305e32858760800000000000000
+      internalID: 7459511561954175667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 485
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8144c78363f7a16a0800000000000000
+      internalID: -6477725243166407656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 485
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a3fbe46042eee30800000000000000
+      internalID: 4534601484318226998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 485
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b95148c294d21e0800000000000000
+      internalID: -2221038585680389333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 485
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa6a1871ab5d150800000000000000
+      internalID: 5896823897233730163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 485
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdad26828c2f81990800000000000000
+      internalID: -7414909844980573477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 485
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099071739530d9b0800000000000000
+      internalID: -5057483474157397747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 485
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d2c60ef0075cf80800000000000000
+      internalID: -8086934342381851326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_14
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 485
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eb255f9dba77e50800000000000000
+      internalID: 6807098314405887627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_46
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 170
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535e447e370f73be0800000000000000
+      internalID: -1497463970485443275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_47
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 92
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf78ec4791080be80800000000000000
+      internalID: -8164885277600479237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_48
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 92
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecd1c63781c7e7d0800000000000000
+      internalID: -2889127849451463448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_49
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 92
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a90ee64433eef390800000000000000
+      internalID: -7782533292381828703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_51
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 92
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c0d383c98336b0800000000000000
+      internalID: -5317755262171298138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_50
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 92
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5548b751d6fc4f620800000000000000
+      internalID: 2807096535177462869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 13
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a29d24905430390800000000000000
+      internalID: -7853357419125462421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_54
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 13
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a72fc9fd9ebb530800000000000000
+      internalID: 3871945451275188796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 13
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bced1366449196c0800000000000000
+      internalID: -4138363552545248077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_56
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 13
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9862128ae0141c4b0800000000000000
+      internalID: -5421980945171274103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affdbca8ccd5d0700800000000000000
+      internalID: 508165466046062586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defaultColliderSet_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27a1603ab44e1580800000000000000
+      internalID: -8854564250897504467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

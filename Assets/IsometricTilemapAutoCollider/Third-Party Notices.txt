@@ -1,0 +1,8 @@
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+	1. 2d-techdemos: MIT License
+		Most of the sprites are taken from this repository. You can view the repository from https://github.com/Unity-Technologies/2d-techdemos.
+		1.1 2d-extras: Unity Companion License
+			2d-techdemos also utilizes some of 2d-extras repository's scripts which can be found at https://github.com/Unity-Technologies/2d-extras. These scripts are also embedded to the package.
+		You can view the contents of both these components in the "_External" folder.
+
+If you wish you can remove the whole "_External" folder.

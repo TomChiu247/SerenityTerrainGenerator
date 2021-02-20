@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 896fa146af7e98a4e960e72f966f8661
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _grid: {instanceID: 0}
+  - _colliderSet: {fileID: 11400000, guid: de1b7bd825a4f394c9b3fbde4ae6a98a, type: 2}
+  - _stairsTowardsTop: {instanceID: 0}
+  - _stairsTowardsLeft: {instanceID: 0}
+  - _stairsTowardsBottom: {instanceID: 0}
+  - _stairsTowardsRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
